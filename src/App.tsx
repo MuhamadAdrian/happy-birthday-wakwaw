@@ -9,7 +9,7 @@ import {
 } from "lucide-react";
 
 const quotes = [
-  "May your day be as bright as your smile and as lovely as you. Happy Birthday! 🌟",
+  "May your day be as bright as your smile. Happy Birthday! 🌟",
   "Another year of amazing you! Wishing you endless joy and laughter. 🎈",
   "Here's to another year of amazing adventures and beautiful moments. 🌈",
   "May this special day bring you all the happiness your heart can hold! 💝",
